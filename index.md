@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "WIP"
 ---
 
-## You're ready to go!
+## Website under construction
 
-Start developing your Jekyll website.
+Please check back later
